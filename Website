@@ -1,4 +1,0 @@
-git add.
-git commit -m "first commit"
-git remote add origin https://github.com/MuhammadSheva/MuhammadSheva.com
-git push -u origin main
